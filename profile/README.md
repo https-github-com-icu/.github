@@ -1,4 +1,5 @@
 # 👀 ICU
+![Logo](https://github.com/https-github-com-icu/.github/assets/122202949/9d4455be-a71e-45da-865e-889253d5d745)
 
 ### Repository 
 - [ICU Client](https://github.com/icu/icu-frontend) <br>
