@@ -9,6 +9,18 @@
 ## 📌 프로젝트 목적
 **무인 점포를 방문 및 구매하시는 고객들과 점포 관리 / 이상행동을 모듈로 분석하여 매장 운영자 비인력 환경의 안정성을 강화**
 
+<br>
+
+## ⚙️ 개발 환경 및 운영 환경
+**Frontend**
+- Framework: React
+- build Tool: Vite
+- language : Javascript
+- CSS Framework : Tailwind CSS
+- IDE : Visual Studio Code (VSCode)
+
+**Backend**
+- IDE : Visual Studio
 <br><br>
   
 ## ✨ 프로젝트 기능
@@ -27,18 +39,7 @@
 > CCTV에서 가져온 영상을 딥러닝 모듈을 통해 이상 행동을 감지
 > CCTV의 영상을 웹으로 가져오기
 
-<br>
 
-## ⚙️ 개발 환경 및 운영 환경
-**Frontend**
-- Framework: React
-- build Tool: Vite
-- language : Javascript
-- CSS Framework : Tailwind CSS
-- IDE : Visual Studio Code (VSCode)
-
-**Backend**
-- IDE : Visual Studio
 
 <br>
 
